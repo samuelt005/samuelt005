@@ -17,7 +17,3 @@ Olá! Sou Samuel Thomas, um entusiasta de programação e estudante de Análise 
 - E-mail: samuel.thomas1109@outlook.com
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato!
-
-<br>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
