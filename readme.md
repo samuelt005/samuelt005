@@ -5,6 +5,7 @@ Olá! Sou Samuel Thomas, um entusiasta de programação e estudante de Análise 
 
 ## Projetos Destacados
 - [Site da CPA - Biopark](https://github.com/eagleyes005/Site_CPA) - Meu primeiro projeto no Biopark, um site desenvolvido utilizando HTML e CSS.
+- [Projeto CRUD em C - Biopark](https://github.com/eagleyes005/Projeto_Sistema_Queijos_e_Vinhos) - Projeto CRUD de um sistema de controle de queijos e vinhos utilizando os conceitos básicos da linguagem C.
 
 ## Linguagens e Tecnologias
 - ![HTML](https://img.shields.io/badge/HTML-Intermedi%C3%A1rio-orange)
