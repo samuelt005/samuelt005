@@ -13,8 +13,9 @@ Olá! Sou Samuel Thomas, um entusiasta de programação e estudante de Análise 
 ![HTML](https://img.shields.io/badge/HTML-Intermedi%C3%A1rio-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermedi%C3%A1rio-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Iniciante-yellow)
-![C](https://img.shields.io/badge/C-Iniciante-lightblue)
+![React](https://img.shields.io/badge/React-Iniciante-skyblue)
 ![Java](https://img.shields.io/badge/Java-Iniciante-red)
+![C](https://img.shields.io/badge/C-Iniciante-blue)
 
 ## 📊 Estatísticas do GitHub
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eagleyes005&theme=dark&hide_border=true)<br/>
