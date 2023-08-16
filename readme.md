@@ -1,7 +1,7 @@
 # Samuel Thomas (eagleyes005)
 
 ## 💫 Sobre Mim
-Olá! Sou Samuel Thomas, um entusiasta de programação e estudante de Análise e Desenvolvimento de Sistemas. Sou formado em Ciências Contábeis e atualmente estou focando no desenvolvimento web. Busco sempre aprender novas tecnologias e aprimorar minhas habilidades de programação.
+Olá! Sou Samuel Thomas, um entusiasta de programação e estudante de Análise e Desenvolvimento de Sistemas. Sou formado em Ciências Contábeis e, atualmente, estou focando em conhecer cada área da programação, para então decidir o que irei me aprofundar no futuro. Desta forma busco sempre aprender novas tecnologias/linguagens e aprimorar minhas habilidades de programação.
 
 ## 📜 Projetos Destacados
 - [Site da CPA - Biopark](https://github.com/eagleyes005/Site_CPA) - Meu primeiro projeto no Biopark, um site desenvolvido utilizando HTML e CSS.
