@@ -26,4 +26,3 @@ Olá! Sou Samuel Thomas, um entusiasta de programação e estudante de Análise 
 - E-mail: samuel.thomas1109@outlook.com
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato!
-[![](https://visitcount.itsvg.in/api?id=eagleyes005&icon=2&color=4)](https://visitcount.itsvg.in)
