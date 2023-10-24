@@ -14,8 +14,10 @@ Olá! Sou Samuel Thomas, um entusiasta de programação e estudante de Análise 
 ## 💻 Linguagens e Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-Intermedi%C3%A1rio-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermedi%C3%A1rio-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Iniciante-yellow)
-![React](https://img.shields.io/badge/React-Iniciante-skyblue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermedi%C3%A1rio-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Iniciante-blue)
+![Angular](https://img.shields.io/badge/React-Iniciante-skyblue)
+![React](https://img.shields.io/badge/Angular-Iniciante-darkred)
 ![Java](https://img.shields.io/badge/Java-Iniciante-red)
 ![C](https://img.shields.io/badge/C-Iniciante-blue)
 
