@@ -12,15 +12,29 @@ Olá! Sou Samuel Thomas, um entusiasta de programação e estudante de Análise 
 - [Consultador de CEP - Alura](https://github.com/eagleyes005/consultador-de-cep) - Ferramenta simples para consultar números de CEP usando a [API](https://viacep.com.br/) do ViaCEP. Versão em React [aqui](https://github.com/eagleyes005/Learning-React/tree/main/consulta-cep)!
 
 ## 💻 Linguagens e Tecnologias
-![HTML](https://img.shields.io/badge/HTML-Intermedi%C3%A1rio-orange)
-![CSS](https://img.shields.io/badge/CSS-Intermedi%C3%A1rio-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermedi%C3%A1rio-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Iniciante-blue)
-![Angular](https://img.shields.io/badge/React-Iniciante-skyblue)
-![React](https://img.shields.io/badge/Angular-Iniciante-darkred)
-![Node.js](https://img.shields.io/badge/Node.js-Iniciante-darkgreen)
-![Java](https://img.shields.io/badge/Java-Iniciante-red)
-![C](https://img.shields.io/badge/C-Iniciante-blue)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
 
 ## 📊 Estatísticas do GitHub
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eagleyes005&theme=dark&hide_border=true)<br/>
